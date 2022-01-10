@@ -138,7 +138,7 @@ The model diagram shows us the classes and relationships, how its connected to e
 
 ![image](https://user-images.githubusercontent.com/72074715/148697473-23f4ea7c-5c49-4a65-a64c-46856bdbaab9.png)
 
-Attempts have been made to connect to a database using DbCon.
+Attempts have been made to connect to a MySQL database as well, using DbCon.
 
 You will need MySQL version 8.0.26 in order for it to work. Test can be made using "DbConTest" and "UserDao" located in "shopping-cart-dao".
 Not enough tests were made to make sure the database is used.
