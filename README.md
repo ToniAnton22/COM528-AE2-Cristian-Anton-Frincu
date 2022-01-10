@@ -1,4 +1,4 @@
-# shopping Application program template
+# Shopping Application Program Template
 
 This is based upon the Shopping Cart Using Spring with Bootstrap in session 6
 
